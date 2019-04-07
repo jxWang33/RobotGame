@@ -1,0 +1,150 @@
+﻿  core.cpp
+d:\project\vs2017\simplegame\simplegame\pic.h(40): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\pic.h(206): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\pic.h(217): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\pic.h(219): warning C4244: “初始化”: 从“FLOAT”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\sound.h(33): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+d:\project\vs2017\simplegame\simplegame\sound.h(99): warning C4996: 'alutLoadWAVFile': 被声明为已否决
+  c:\env\openal 1.1 sdk\include\alut.h(113): note: 参见“alutLoadWAVFile”的声明
+d:\project\vs2017\simplegame\simplegame\sound.h(101): warning C4996: 'alutUnloadWAV': 被声明为已否决
+  c:\env\openal 1.1 sdk\include\alut.h(116): note: 参见“alutUnloadWAV”的声明
+d:\project\vs2017\simplegame\simplegame\sound.h(199): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\define.h(67): warning C4005: “PIC_H”: 宏重定义
+  d:\project\vs2017\simplegame\simplegame\pic.h(13): note: 参见“PIC_H”的前一个定义
+d:\project\vs2017\simplegame\simplegame\cursor.h(21): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\cursor.h(27): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(97): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(117): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(118): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(119): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(120): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(122): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(123): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(124): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(125): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(167): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(168): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(169): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(170): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(175): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(176): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(177): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(178): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(160): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+d:\project\vs2017\simplegame\simplegame\map.h(185): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\map.h(233): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\lizi.h(35): warning C4305: “初始化”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\lizi.h(66): warning C4305: “+=”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\lizi.h(67): warning C4305: “-=”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\lizi.h(122): warning C4305: “+=”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\lizi.h(123): warning C4305: “-=”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\lizi.h(196): warning C4305: “参数”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\hero.h(55): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(56): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(86): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(97): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(98): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(112): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(113): warning C4305: “+=”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\hero.h(118): warning C4305: “-=”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\hero.h(150): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(153): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(156): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(178): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(180): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(204): warning C4305: “参数”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\hero.h(377): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(381): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(398): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(404): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(426): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(433): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(434): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(445): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(446): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(447): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(471): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(472): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\hero.h(476): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\things.h(37): warning C4305: “+=”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\things.h(40): warning C4305: “-=”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\things.h(40): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\things.h(41): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\things.h(42): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\things.h(43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\things.h(48): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\things.h(151): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\things.h(153): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\things.h(157): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\things.h(164): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\things.h(167): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\things.h(276): warning C4305: “参数”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\things.h(278): warning C4305: “参数”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\things.h(279): warning C4305: “参数”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\things.h(280): warning C4305: “参数”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\things.h(283): warning C4305: “参数”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\things.h(340): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\things.h(341): warning C4305: “+=”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\things.h(341): warning C4305: “-=”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\camera.h(45): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\camera.h(46): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\camera.h(52): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\camera.h(53): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\camera.h(68): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\camera.h(80): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\camera.h(87): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\camera.h(88): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\camera.h(106): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\camera.h(118): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(35): warning C4305: “参数”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\mapedit.h(36): warning C4305: “参数”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\mapedit.h(36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(38): warning C4473: “swprintf”: 没有为格式字符串传递足够的参数
+  d:\project\vs2017\simplegame\simplegame\mapedit.h(38): note: 占位符和其参数预计 6 可变参数，但提供的却是 5 参数
+  d:\project\vs2017\simplegame\simplegame\mapedit.h(38): note: 缺失的可变参数 6 为格式字符串“%d”所需
+d:\project\vs2017\simplegame\simplegame\mapedit.h(48): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(50): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(53): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(38): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wstdio.h(1822): note: 参见“swprintf”的声明
+d:\project\vs2017\simplegame\simplegame\mapedit.h(86): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(87): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(88): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(100): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(110): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(141): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(142): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(143): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(144): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(149): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(150): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(151): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(152): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\mapedit.h(136): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+d:\project\vs2017\simplegame\simplegame\gui.h(26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\gui.h(42): warning C4305: “参数”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\q.h(35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\q.h(62): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\q.h(98): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\q.h(107): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\w.h(20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\w.h(38): warning C4305: “参数”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\w.h(93): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\w.h(111): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\e.h(50): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\e.h(53): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\e.h(55): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\e.h(57): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\e.h(109): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\e.h(164): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\e.h(170): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\e.h(177): warning C4305: “参数”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\e.h(179): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\e.h(180): warning C4305: “参数”: 从“double”到“float”截断
+d:\project\vs2017\simplegame\simplegame\e.h(182): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\project\vs2017\simplegame\simplegame\e.h(206): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  SimpleGame.vcxproj -> D:\project\VS2017\SimpleGame\Debug\SimpleGame.exe
